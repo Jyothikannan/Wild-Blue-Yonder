@@ -2,6 +2,9 @@
 A simple shooting game implemented in Java using **Swing** and **AWT**, where the player moves around and shoots bullets to destroy enemies. The game features collision detection, enemy spawning, and a start/game-over screen for better user experience.  
 
 ---
+## Preview
+<img src="https://github.com/user-attachments/assets/544b9b89-7ca7-4310-b214-3379a429c6ea" width="400" height="auto" style="border-radius: 15px;" />
+
 
 ## Features  
 **Game Window** – A square (800x800) game window.  
